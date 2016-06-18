@@ -43,12 +43,12 @@ cacheSolve <- function(x, ...) {
         message("Can not find data from cache, computing now")
         x$sol()
         m <<- x$get()
-        return(data)
+        return(m)
 }
 
 
 ## 3.test
-## R the code, test my project!
+## Run the code, test my project!
 ## Thanks!
 data <- matrix(rnorm(16),4,4)
 

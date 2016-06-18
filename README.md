@@ -3,7 +3,7 @@ This is my assignment2 for R programmming class
 
 The R script includes
 * makeCacheMatrix
-* cachesolve
+* cacheSolve
 * test
 
 You can run it all at once to test it
